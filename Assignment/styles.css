@@ -1,0 +1,130 @@
+body{
+    background-image: url(images/Homepage.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+.container{
+    align-items: center;
+    text-align: justify;
+}
+.form{
+    align-items: center;
+    background-color: hsla(0, 0%, 100%, 0.38);
+    width: 589px;
+    height: 883px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 70px;
+    margin-left: 23px;
+    border: none;
+    outline: none;
+    font-size: 10px;
+    }
+
+    
+
+.ugo{
+
+    margin-top: 70px;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    letter-spacing: 1px;
+    line-height: 1.6em;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+.btn{
+    background-color: rgb(150, 248, 3);
+    color: white;
+    box-shadow: none;
+    text-align: center;
+    outline: none;
+    padding: 0;
+    border-radius: 8px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    cursor: pointer;
+
+}
+
+.myButton{
+    background-color:  hsla(0, 0%, 100%, 0.38);
+    color: rgb(150, 248, 3);
+    border-radius: 8px;
+    outline: none;
+    text-align: center;
+    border-color: rgb(150, 248, 3);
+    width: 300px;
+    height: 38px;
+    cursor: pointer;
+   
+}
+.login{
+    color: greenyellow;
+    text-decoration: none;
+
+}
+
+.team{
+    border: none;
+    outline: none;
+    width: 300px;
+    height: 30px;
+    border-radius: 8%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+ /* Style the input field */
+                .password-input {
+                  position: relative;
+                  display: inline-block;
+                  
+                }
+              
+                /* Style the eye-slash icon */
+                .password-input .eye-icon {
+                  position: absolute;
+                  top: 50%;
+                  right: 10px;
+                  transform: translateY(-50%);
+                  cursor: pointer;
+                  color: black;
+                  margin-top: 15px;
+                }
+              
+                /* Adjust the input padding to make space for the icon */
+                .password-input input[type="password"] {
+                  padding-right: 30px;
+                  width: 270px;
+                  height: 30px;
+                  border: none;
+                  outline: none;
+                }
+
+.p{
+    text-align: center;
+}
+
+
+/* .googleImg{
+    width: 24px;
+    height: 24px;
+    padding-top: -20px;
+} */
+/* #google{
+    margin-top: 20px;
+    align-content: center;
+    align-items: center;
+    height: 50px;
+}  */
+
